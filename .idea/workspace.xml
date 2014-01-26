@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f72338ec-375e-4fe4-a134-b296800b7895" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -27,19 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="10" selection-start="4404" selection-end="4404" vertical-scroll-proportion="0.40413794" vertical-offset="1339" max-vertical-offset="2192">
+            <state line="102" column="10" selection-start="4404" selection-end="4404" vertical-scroll-proportion="-6.6" vertical-offset="1467" max-vertical-offset="2192">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="13" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="3648">
+            <state line="204" column="20" selection-start="3581" selection-end="3581" vertical-scroll-proportion="0.49672347" vertical-offset="2885" max-vertical-offset="3664">
               <folding />
             </state>
           </provider>
@@ -59,8 +58,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/js/bootstrap.js" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -264,7 +263,11 @@
       <created>1390721521956</created>
       <updated>1390721521956</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fixed Margin-top issue with image gallery.">
+      <created>1390722496581</created>
+      <updated>1390722496581</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -307,7 +310,8 @@
     <MESSAGE value="Original Publish to Gh-Pages&#10;" />
     <MESSAGE value="Amended Image Indicator" />
     <MESSAGE value="Amended Image Indicator&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amended Image Indicator&#10;" />
+    <MESSAGE value="Fixed Margin-top issue with image gallery." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Margin-top issue with image gallery." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -334,16 +338,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="13" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="3648">
+        <state line="102" column="10" selection-start="4404" selection-end="4404" vertical-scroll-proportion="-6.6" vertical-offset="1467" max-vertical-offset="2192">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="10" selection-start="4404" selection-end="4404" vertical-scroll-proportion="0.40413794" vertical-offset="1339" max-vertical-offset="2192">
+        <state line="204" column="20" selection-start="3581" selection-end="3581" vertical-scroll-proportion="0.49672347" vertical-offset="2885" max-vertical-offset="3664">
           <folding />
         </state>
       </provider>
