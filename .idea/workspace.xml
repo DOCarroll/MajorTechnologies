@@ -254,7 +254,11 @@
       <created>1390721402291</created>
       <updated>1390721402291</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Amended Image Indicator">
+      <created>1390721445136</created>
+      <updated>1390721445136</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -295,7 +299,8 @@
     </option>
     <MESSAGE value="Original Publish to Gh-Pages" />
     <MESSAGE value="Original Publish to Gh-Pages&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Original Publish to Gh-Pages&#10;" />
+    <MESSAGE value="Amended Image Indicator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amended Image Indicator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
