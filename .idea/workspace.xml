@@ -246,7 +246,11 @@
       <created>1390721361808</created>
       <updated>1390721361808</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Original Publish to Gh-Pages&#10;">
+      <created>1390721382043</created>
+      <updated>1390721382043</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
