@@ -1,0 +1,220 @@
+
+/* Created by Daniel O'Carroll
+    LemonMyth@live.com
+    1/26/14 */
+
+body {
+    background-image: url('../images/always_grey.png');
+}
+
+.header {
+    color: #FF7400;
+    font-family: 'Nunito', sans-serif;
+    font-size: 4em;
+    margin-top:5px;
+}
+h1 {
+    color: #080808;
+    font-size:1.2em;
+    margin:0 auto;
+}
+
+h2 {
+    color:#428BCA;
+}
+
+.wrapper {
+    width:960px;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 100%;
+}
+
+img {
+    width:100%;
+    margin-bottom:2%;
+}
+
+.center {
+    text-align: center;
+}
+
+nav {
+    margin-top: 5px;
+    color: #ac2925;
+    margin-bottom:0;
+}
+
+.navbar-default {
+    background-color: #080808;
+    border:solid 2px #282828;
+}
+
+.jumbotron {
+    background-color:#080808;
+    border-radius: 0 0 20px 20px;
+}
+
+.jumbotron h1 {
+    color:#ac2925;
+    font-size: 2em;
+}
+
+.btn-primary, .btn-default {
+    background-color: #FF7400;
+    border-color: #282828;
+    border-radius: 10px;
+    color:#080808;
+}
+
+.btn-primary:hover, .btn-default:hover {
+    background-color: #FF7400;
+    color:#282828;
+    border: solid 2px #ac2925;
+}
+
+h2 {
+    color:#ac2925;
+}
+
+.navbar-toggle {
+    border-color: #FF7400;
+}
+
+#navbar-brand {
+    color: #FF7400;
+
+}
+
+.subheader {
+    color: #080808;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    background-color: #080808;
+    color: #555555;
+}
+
+.dropdown-menu {
+    background-color: #080808;
+}
+
+.dropdown-menu .divider{
+    background-color:#FF7400;
+}
+
+.dropdown-menu > li > a:hover {
+    background-color: #080808;
+    color: #FF7400;
+}
+
+.dropdown-menu > li > a {
+    color: #555555;
+}
+
+.navbar-default .navbar-toggle {
+    background-color: #282828;
+    border: none;
+
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    background-color: #282828;
+    color: #555555;
+}
+
+
+/*Corusel Code */
+/* Main carousel style */
+.carousel {
+    width: 100%;
+}
+
+/* Indicators list style */
+.article-slide .carousel-indicators {
+    bottom: 0;
+    left: 0;
+    margin-left: 5px;
+    width: 100%;
+}
+/* Indicators list style */
+.article-slide .carousel-indicators li {
+    border: medium none;
+    border-radius: 0;
+    float: left;
+    height: 54px;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 5px !important;
+    margin-top: 0;
+    width: 100px;
+}
+/* Indicators images style */
+.article-slide .carousel-indicators img {
+    border: 2px solid #FFFFFF;
+    float: left;
+    height: 54px;
+    left: 0;
+    width: 100px;
+}
+/* Indicators active image style */
+.article-slide .carousel-indicators .active img {
+    border: 2px solid #428BCA;
+    opacity: 0.7;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    height: 200px;
+    line-height: 1;
+    max-width: 100%;
+    margin:0;
+}
+
+
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+    .wrapper {
+        width: 100%;
+    }
+
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+    .wrapper {
+        width: 100%;
+    }
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .wrapper {
+        width: 100%;
+    }
+    .header {
+        width: 100%;
+        font-size: 3em;
+    }
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+    .wrapper {
+        width: 100%;
+    }
+    .header {
+        width:100%;
+        font-size: 2.8em;
+    }
+
+}
