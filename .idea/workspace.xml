@@ -28,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="17" selection-start="3839" selection-end="3839" vertical-scroll-proportion="0.77931035" vertical-offset="891" max-vertical-offset="2192">
+            <state line="94" column="0" selection-start="3865" selection-end="3865" vertical-scroll-proportion="0.8455172" vertical-offset="891" max-vertical-offset="2192">
               <folding />
             </state>
           </provider>
@@ -250,7 +250,11 @@
       <created>1390721382043</created>
       <updated>1390721382043</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Original Publish to Gh-Pages&#10;">
+      <created>1390721402291</created>
+      <updated>1390721402291</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -327,7 +331,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="17" selection-start="3839" selection-end="3839" vertical-scroll-proportion="0.77931035" vertical-offset="891" max-vertical-offset="2192">
+        <state line="94" column="0" selection-start="3865" selection-end="3865" vertical-scroll-proportion="0.8455172" vertical-offset="891" max-vertical-offset="2192">
           <folding />
         </state>
       </provider>
